@@ -4,7 +4,19 @@ W3Cの各WG、WHATWG、TC39、IETFの各WG、どれもだいたいメーリン�
 
 ## W3Cのメーリングリスト
 
-https://lists.w3.org/Archives/Public/ に一覧が。ちょう多いのはCommunity Groupsのせいです。
+https://lists.w3.org/Archives/Public/ に一覧がある。ちょう多いのはCommunity Groupsのせいで、WGのMLを探すのはめんどくさいね……
+
+主要なWGやトピックのMLを挙げると…
+
+TODO: いれる
+
+だいたいのMLが「public」から始まる。「www」から始まるのは90年代から続いてるメーリングリスト。
+
+### Memberリスト
+
+ここにあるのは公開メーリングリストだけで、一般には非公開のメーリングリストもある。
+
+W3C Memberのアカウントを持っている場合は、 https://lists.w3.org/Archives/Member/ 以下のメンバー限定リストにアクセスできる。昔の名残でXML関連とかアクセシビリティ周りはMemberリストで非公開な議論をしていたりするのでウォッチできない。今日のWGなら議論は公開MLでやって、WG運営周り（誰を加えるとか誰かの所属が変わったとかドラフトの公開手続きとか）をMemberリストでやるのでそんなに不便はない。ふるーい時代の議論や、たまに起こる謎の喧嘩を覗けないのが少し残念かもしれない。
 
 ## WHATWG
 
